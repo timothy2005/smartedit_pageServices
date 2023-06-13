@@ -92,7 +92,7 @@
     "angular-ui-tree": "2.22.6",
     "ckeditor": "4.10.0",
     "clean-npm-tmp": "1.1.2",
-    "crypto-js": "3.1.9-1",
+    "crypto-js": "3.2.1",
     "element-resize-detector": "1.1.14",
     "eonasdan-bootstrap-datetimepicker": "4.17.47",
     "font-awesome": "4.7.0",
